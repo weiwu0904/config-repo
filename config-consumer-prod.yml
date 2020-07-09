@@ -4,6 +4,9 @@ info:
 name: Paul
 words: 'God bless you'
 
+server:
+  port: 61000
+
 eureka:
   client:
     service-url:
