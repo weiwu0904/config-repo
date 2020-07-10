@@ -2,13 +2,4 @@ info:
  profile: prod
 
 name: Paul
-words: 'God bless you'
-
-server:
-  port: 61000
-
-eureka:
-  client:
-    service-url:
-      ## 注册中心地址
-      defaultZone: http://localhost:20000/eureka/
+words: God bless you and me
